@@ -1,0 +1,4 @@
+{"protocol":{"minReaderVersion":1,"minWriterVersion":2,"readerFeatures":null,"writerFeatures":null}}
+{"metaData":{"id":"dc6a342b-63b0-442f-a8d3-3415bf898632","format":{"provider":"parquet","options":{}},"schemaString":"{\"type\":\"struct\",\"fields\":[{\"name\":\"CityId\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"City\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"State\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}}]}","partitionColumns":[],"createdTime":1715070885219,"configuration":{}}}
+{"commitInfo":{"operation":"ReplaceTable","engineInfo":"Mashup Engine/2.128.1031.0","additionalCommitInfo":null}}
+{"add":{"path":"ca9e5c47dc6244aa91bde6f9fce464d3.parquet","partitionValues":{},"size":330,"modificationTime":1715070886204,"dataChange":true,"stats":"{\"numRecords\":0,\"minValues\":{},\"maxValues\":{},\"nullCount\":{}}","tags":{"VORDER":"true"}}}

@@ -1,0 +1,2 @@
+{"commitInfo":{"operation":"Update","engineInfo":"Mashup Engine/2.128.1031.0","additionalCommitInfo":null}}
+{"add":{"path":"4ee1a9a63ef14186a91a7ed132a5755e.parquet","partitionValues":{},"size":3422,"modificationTime":1715070888597,"dataChange":true,"stats":"{\"numRecords\":100,\"minValues\":{\"CityId\":1.0,\"City\":\"Albuquerque\",\"State\":\"Alaska\"},\"maxValues\":{\"CityId\":100.0,\"City\":\"Winstonâ€“Salem\",\"State\":\"Wisconsin\"},\"nullCount\":{\"CityId\":0,\"City\":0,\"State\":0}}","tags":{"VORDER":"true"}}}
